@@ -1,0 +1,44 @@
+name: Fetch Ski Resort Snow Data
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (midnight Mountain Time during winter)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch snow data
+        env:
+          GRIB_KEY: ${{ secrets.GRIB_KEY }}
+        run: |
+          node fetch_snow_data.js
+
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update snow data - $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+
+      - name: Upload data artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: snow-data-${{ github.run_number }}
+          path: data/
+          retention-days: 90

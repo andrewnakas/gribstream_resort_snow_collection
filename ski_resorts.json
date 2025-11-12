@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Vail",
+    "state": "Colorado",
+    "country": "USA",
+    "lat": 39.6403,
+    "lon": -106.3742
+  },
+  {
+    "name": "Aspen Snowmass",
+    "state": "Colorado",
+    "country": "USA",
+    "lat": 39.1911,
+    "lon": -106.8175
+  },
+  {
+    "name": "Breckenridge",
+    "state": "Colorado",
+    "country": "USA",
+    "lat": 39.4817,
+    "lon": -106.0384
+  },
+  {
+    "name": "Park City",
+    "state": "Utah",
+    "country": "USA",
+    "lat": 40.6514,
+    "lon": -111.5079
+  },
+  {
+    "name": "Alta",
+    "state": "Utah",
+    "country": "USA",
+    "lat": 40.5885,
+    "lon": -111.6377
+  },
+  {
+    "name": "Snowbird",
+    "state": "Utah",
+    "country": "USA",
+    "lat": 40.5825,
+    "lon": -111.6573
+  },
+  {
+    "name": "Jackson Hole",
+    "state": "Wyoming",
+    "country": "USA",
+    "lat": 43.5875,
+    "lon": -110.8278
+  },
+  {
+    "name": "Big Sky",
+    "state": "Montana",
+    "country": "USA",
+    "lat": 45.2847,
+    "lon": -111.4008
+  },
+  {
+    "name": "Mammoth Mountain",
+    "state": "California",
+    "country": "USA",
+    "lat": 37.6308,
+    "lon": -119.0326
+  },
+  {
+    "name": "Squaw Valley (Palisades Tahoe)",
+    "state": "California",
+    "country": "USA",
+    "lat": 39.1969,
+    "lon": -120.2356
+  },
+  {
+    "name": "Whistler Blackcomb",
+    "state": "British Columbia",
+    "country": "Canada",
+    "lat": 50.1163,
+    "lon": -122.9574
+  },
+  {
+    "name": "Lake Louise",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 51.4254,
+    "lon": -116.1773
+  },
+  {
+    "name": "Banff Sunshine",
+    "state": "Alberta",
+    "country": "Canada",
+    "lat": 51.1125,
+    "lon": -115.7631
+  },
+  {
+    "name": "Stowe",
+    "state": "Vermont",
+    "country": "USA",
+    "lat": 44.5303,
+    "lon": -72.7817
+  },
+  {
+    "name": "Killington",
+    "state": "Vermont",
+    "country": "USA",
+    "lat": 43.6042,
+    "lon": -72.8220
+  },
+  {
+    "name": "Sunday River",
+    "state": "Maine",
+    "country": "USA",
+    "lat": 44.4692,
+    "lon": -70.8561
+  },
+  {
+    "name": "Telluride",
+    "state": "Colorado",
+    "country": "USA",
+    "lat": 37.9364,
+    "lon": -107.8123
+  },
+  {
+    "name": "Steamboat",
+    "state": "Colorado",
+    "country": "USA",
+    "lat": 40.4572,
+    "lon": -106.8047
+  },
+  {
+    "name": "Taos",
+    "state": "New Mexico",
+    "country": "USA",
+    "lat": 36.5928,
+    "lon": -105.4467
+  },
+  {
+    "name": "Mount Bachelor",
+    "state": "Oregon",
+    "country": "USA",
+    "lat": 43.9792,
+    "lon": -121.6889
+  }
+]

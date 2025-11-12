@@ -1,0 +1,21 @@
+{
+  "name": "gribstream-resort-snow-collection",
+  "version": "1.0.0",
+  "description": "Daily ski resort snow data collection from Grib Stream API",
+  "main": "fetch_snow_data.js",
+  "scripts": {
+    "fetch": "node fetch_snow_data.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "ski",
+    "snow",
+    "weather",
+    "gribstream"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
