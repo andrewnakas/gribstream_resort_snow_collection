@@ -1,0 +1,426 @@
+{
+  "timestamp": "2025-11-13T21:56:11.582Z",
+  "model": "hrrr",
+  "resorts": [
+    {
+      "name": "Vail",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6403,
+        "lon": -106.3742
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Aspen Snowmass",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1911,
+        "lon": -106.8175
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Breckenridge",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.4817,
+        "lon": -106.0384
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Park City",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.6514,
+        "lon": -111.5079
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Alta",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.5885,
+        "lon": -111.6377
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snowbird",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.5825,
+        "lon": -111.6573
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Jackson Hole",
+      "state": "Wyoming",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.5875,
+        "lon": -110.8278
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Big Sky",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.2847,
+        "lon": -111.4008
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mammoth Mountain",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.6308,
+        "lon": -119.0326
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Squaw Valley (Palisades Tahoe)",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1969,
+        "lon": -120.2356
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Whistler Blackcomb",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.1163,
+        "lon": -122.9574
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Lake Louise",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.4254,
+        "lon": -116.1773
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Banff Sunshine",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.1125,
+        "lon": -115.7631
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Stowe",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.5303,
+        "lon": -72.7817
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Killington",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.6042,
+        "lon": -72.822
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sunday River",
+      "state": "Maine",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.4692,
+        "lon": -70.8561
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Telluride",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.9364,
+        "lon": -107.8123
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Steamboat",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.4572,
+        "lon": -106.8047
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Taos",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 36.5928,
+        "lon": -105.4467
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mount Bachelor",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.9792,
+        "lon": -121.6889
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    }
+  ]
+}
