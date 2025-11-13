@@ -76,6 +76,13 @@ async function fetchSnowData() {
 
     const data = await response.json();
     console.log('Data received successfully');
+    console.log('API Response sample:', JSON.stringify(data).substring(0, 500));
+    console.log('API Response type:', Array.isArray(data) ? 'Array' : typeof data);
+    if (Array.isArray(data) && data.length > 0) {
+      console.log('First item keys:', Object.keys(data[0]));
+    } else if (typeof data === 'object') {
+      console.log('Response keys:', Object.keys(data));
+    }
 
     // Process and organize the data
     const processedData = processSnowData(data, resorts);
@@ -113,6 +120,8 @@ async function fetchSnowData() {
 
 function processSnowData(apiData, resorts) {
   // Convert API response to a more user-friendly format
+  console.log('Processing data for', resorts.length, 'resorts');
+
   const processedResorts = resorts.map((resort, index) => {
     const resortData = {
       name: resort.name,
@@ -128,29 +137,43 @@ function processSnowData(apiData, resorts) {
     // Extract data for this resort from the API response
     // The API response format may vary, so we'll handle it flexibly
     if (Array.isArray(apiData)) {
-      // Find data matching this resort's coordinates
+      // Find data matching this resort's coordinates (with tolerance for floating point comparison)
       const matchingData = apiData.filter(item => {
-        return item.lat === resort.lat && item.lon === resort.lon;
+        const latMatch = Math.abs((item.lat || item.latitude) - resort.lat) < 0.01;
+        const lonMatch = Math.abs((item.lon || item.longitude || item.lng) - resort.lon) < 0.01;
+        return latMatch && lonMatch;
       });
 
       if (matchingData.length > 0) {
+        console.log(`Found ${matchingData.length} data points for ${resort.name}`);
         // Use the most recent data point
         const latestData = matchingData[matchingData.length - 1];
 
-        // Extract snow metrics
+        // Extract snow metrics - try both uppercase and lowercase field names
         resortData.snow = {
-          snowfall_m: latestData.ASNOW || 0,
-          snowfall_inches: (latestData.ASNOW || 0) * 39.3701,
-          snow_depth_m: latestData.SNOD || 0,
-          snow_depth_inches: (latestData.SNOD || 0) * 39.3701,
-          snow_cover_percent: latestData.SNOWC || 0,
-          water_equivalent_kg_m2: latestData.WEASD || 0,
-          temperature_k: latestData.TMP || 0,
-          temperature_f: latestData.TMP ? (latestData.TMP - 273.15) * 9/5 + 32 : 0,
-          precipitation_kg_m2: latestData.APCP || 0,
-          categorical_snow: latestData.CSNOW || 0,
-          forecast_time: latestData.forecastTime || latestData.validTime
+          snowfall_m: latestData.ASNOW || latestData.asnow || 0,
+          snowfall_inches: (latestData.ASNOW || latestData.asnow || 0) * 39.3701,
+          snow_depth_m: latestData.SNOD || latestData.snod || 0,
+          snow_depth_inches: (latestData.SNOD || latestData.snod || 0) * 39.3701,
+          snow_cover_percent: latestData.SNOWC || latestData.snowc || 0,
+          water_equivalent_kg_m2: latestData.WEASD || latestData.weasd || 0,
+          temperature_k: latestData.TMP || latestData.tmp || 0,
+          temperature_f: (latestData.TMP || latestData.tmp) ? ((latestData.TMP || latestData.tmp) - 273.15) * 9/5 + 32 : 0,
+          precipitation_kg_m2: latestData.APCP || latestData.apcp || 0,
+          categorical_snow: latestData.CSNOW || latestData.csnow || 0,
+          forecast_time: latestData.forecastTime || latestData.validTime || latestData.time
         };
+      } else {
+        console.log(`No matching data found for ${resort.name}`);
+      }
+    } else if (apiData && typeof apiData === 'object') {
+      // Handle nested object structure
+      console.log('API data is an object, not an array. Keys:', Object.keys(apiData));
+      // Try to find data in common nested structures
+      if (apiData.data && Array.isArray(apiData.data)) {
+        return processSnowData(apiData.data, resorts);
+      } else if (apiData.results && Array.isArray(apiData.results)) {
+        return processSnowData(apiData.results, resorts);
       }
     }
 
