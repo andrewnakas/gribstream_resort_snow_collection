@@ -1,0 +1,2925 @@
+{
+  "timestamp": "2026-10-30T12:06:12.498Z",
+  "model": "hrrr",
+  "resorts": [
+    {
+      "name": "Vail",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6403,
+        "lon": -106.3742
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Aspen Snowmass",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1911,
+        "lon": -106.8175
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Breckenridge",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.4817,
+        "lon": -106.0384
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Keystone",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6051,
+        "lon": -105.9347
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Beaver Creek",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6042,
+        "lon": -106.5165
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Copper Mountain",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.5019,
+        "lon": -106.1503
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Arapahoe Basin",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6428,
+        "lon": -105.8719
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Loveland",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.6803,
+        "lon": -105.8978
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Winter Park",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.8867,
+        "lon": -105.7625
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Steamboat",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.4572,
+        "lon": -106.8047
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Telluride",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.9364,
+        "lon": -107.8123
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Crested Butte",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.8997,
+        "lon": -106.9653
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Aspen Highlands",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1822,
+        "lon": -106.8553
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Buttermilk",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.2028,
+        "lon": -106.8581
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Eldora",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.9372,
+        "lon": -105.5825
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Monarch Mountain",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.5119,
+        "lon": -106.3322
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Powderhorn",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.0694,
+        "lon": -108.1514
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Silverton Mountain",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.8856,
+        "lon": -107.6653
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Wolf Creek",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.4733,
+        "lon": -106.7931
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Purgatory",
+      "state": "Colorado",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.6303,
+        "lon": -107.8142
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Park City",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.6514,
+        "lon": -111.5079
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Alta",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.5885,
+        "lon": -111.6377
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snowbird",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.5825,
+        "lon": -111.6573
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Deer Valley",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.6374,
+        "lon": -111.4783
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Brighton",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.5981,
+        "lon": -111.5831
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Solitude",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.62,
+        "lon": -111.5917
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snowbasin",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 41.2158,
+        "lon": -111.8569
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Powder Mountain",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 41.3797,
+        "lon": -111.7811
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sundance",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.3936,
+        "lon": -111.5839
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Brian Head",
+      "state": "Utah",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.7006,
+        "lon": -112.8489
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Jackson Hole",
+      "state": "Wyoming",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.5875,
+        "lon": -110.8278
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Grand Targhee",
+      "state": "Wyoming",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.7894,
+        "lon": -110.9572
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snow King",
+      "state": "Wyoming",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.4658,
+        "lon": -110.7619
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Big Sky",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.2847,
+        "lon": -111.4008
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bridger Bowl",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.8183,
+        "lon": -110.8992
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Whitefish Mountain",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 48.4847,
+        "lon": -114.3561
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Red Lodge Mountain",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.1833,
+        "lon": -109.3167
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Discovery Ski Area",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 46.3672,
+        "lon": -113.2289
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Showdown Montana",
+      "state": "Montana",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.0594,
+        "lon": -110.6439
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sun Valley",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.6972,
+        "lon": -114.3578
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Grand Targhee (Idaho)",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.7894,
+        "lon": -111.1125
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Schweitzer",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 48.3661,
+        "lon": -116.6242
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Tamarack",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.5769,
+        "lon": -116.1064
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Brundage Mountain",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.9375,
+        "lon": -116.3094
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bogus Basin",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.7708,
+        "lon": -116.1
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Silver Mountain",
+      "state": "Idaho",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.5581,
+        "lon": -115.9767
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Palisades Tahoe (Squaw Valley)",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1969,
+        "lon": -120.2356
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mammoth Mountain",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 37.6308,
+        "lon": -119.0326
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Heavenly",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.9353,
+        "lon": -119.9403
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Northstar",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.2731,
+        "lon": -120.1211
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Kirkwood",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.6867,
+        "lon": -120.0656
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sugar Bowl",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.3019,
+        "lon": -120.3406
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Alpine Meadows",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.1667,
+        "lon": -120.2231
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sierra at Tahoe",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.8069,
+        "lon": -120.0828
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Homewood",
+      "state": "California",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.0833,
+        "lon": -120.1667
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mt. Rose",
+      "state": "Nevada",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.3122,
+        "lon": -119.8847
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Diamond Peak",
+      "state": "Nevada",
+      "country": "USA",
+      "coordinates": {
+        "lat": 39.2544,
+        "lon": -119.9208
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mount Bachelor",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.9792,
+        "lon": -121.6889
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mt. Hood Meadows",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.3311,
+        "lon": -121.6647
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Timberline Lodge",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.3311,
+        "lon": -121.7108
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mt. Hood Skibowl",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.3006,
+        "lon": -121.7731
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Willamette Pass",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.6058,
+        "lon": -122.0375
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Anthony Lakes",
+      "state": "Oregon",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.9578,
+        "lon": -118.2308
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Crystal Mountain",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 46.9358,
+        "lon": -121.4747
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Stevens Pass",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.7453,
+        "lon": -121.0889
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mt. Baker",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 48.8594,
+        "lon": -121.6647
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snoqualmie Pass",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.4242,
+        "lon": -121.4128
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mission Ridge",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.2919,
+        "lon": -120.3972
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "White Pass",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 46.6389,
+        "lon": -121.3906
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "49 Degrees North",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 48.2898,
+        "lon": -117.5693
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Schweitzer Mountain",
+      "state": "Washington",
+      "country": "USA",
+      "coordinates": {
+        "lat": 48.3661,
+        "lon": -116.6242
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Taos Ski Valley",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 36.5928,
+        "lon": -105.4467
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Ski Santa Fe",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 35.7867,
+        "lon": -105.8186
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sipapu",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 36.175,
+        "lon": -105.6389
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Red River",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 36.7033,
+        "lon": -105.4011
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Angel Fire",
+      "state": "New Mexico",
+      "country": "USA",
+      "coordinates": {
+        "lat": 36.3894,
+        "lon": -105.2908
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Arizona Snowbowl",
+      "state": "Arizona",
+      "country": "USA",
+      "coordinates": {
+        "lat": 35.3308,
+        "lon": -111.7103
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sunrise Park",
+      "state": "Arizona",
+      "country": "USA",
+      "coordinates": {
+        "lat": 33.9556,
+        "lon": -109.7944
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Stowe",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.5303,
+        "lon": -72.7817
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Killington",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.6042,
+        "lon": -72.822
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sugarbush",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.1358,
+        "lon": -72.9019
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Stratton",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.1139,
+        "lon": -72.9089
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Okemo",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.4017,
+        "lon": -72.7192
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mount Snow",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.96,
+        "lon": -72.9203
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mad River Glen",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.2011,
+        "lon": -72.9214
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Jay Peak",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.9364,
+        "lon": -72.505
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Smugglers' Notch",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.5497,
+        "lon": -72.7867
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bolton Valley",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.4089,
+        "lon": -72.8675
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bromley",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.2256,
+        "lon": -72.9481
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Magic Mountain",
+      "state": "Vermont",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.1769,
+        "lon": -72.8931
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Loon Mountain",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.0367,
+        "lon": -71.6208
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bretton Woods",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.2694,
+        "lon": -71.4419
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Cannon Mountain",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.1569,
+        "lon": -71.6978
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Waterville Valley",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.9556,
+        "lon": -71.5139
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Wildcat Mountain",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.2636,
+        "lon": -71.2344
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Attitash",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.0833,
+        "lon": -71.2508
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Cranmore",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.0569,
+        "lon": -71.1044
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Gunstock",
+      "state": "New Hampshire",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.5331,
+        "lon": -71.3661
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sunday River",
+      "state": "Maine",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.4692,
+        "lon": -70.8561
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sugarloaf",
+      "state": "Maine",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.0314,
+        "lon": -70.3136
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Saddleback",
+      "state": "Maine",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.9378,
+        "lon": -70.6194
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Shawnee Peak",
+      "state": "Maine",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.9728,
+        "lon": -70.8936
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Whiteface Mountain",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 44.3658,
+        "lon": -73.9025
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Gore Mountain",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 43.6803,
+        "lon": -74.005
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Hunter Mountain",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.2033,
+        "lon": -74.2264
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Windham Mountain",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.2972,
+        "lon": -74.2542
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Bristol Mountain",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.7367,
+        "lon": -77.4144
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Holiday Valley",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.2878,
+        "lon": -78.6719
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Greek Peak",
+      "state": "New York",
+      "country": "USA",
+      "coordinates": {
+        "lat": 42.5111,
+        "lon": -76.1458
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Blue Mountain",
+      "state": "Pennsylvania",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.8017,
+        "lon": -75.6083
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Camelback",
+      "state": "Pennsylvania",
+      "country": "USA",
+      "coordinates": {
+        "lat": 41.0411,
+        "lon": -75.3644
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Seven Springs",
+      "state": "Pennsylvania",
+      "country": "USA",
+      "coordinates": {
+        "lat": 40.0203,
+        "lon": -79.2958
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Snowshoe",
+      "state": "West Virginia",
+      "country": "USA",
+      "coordinates": {
+        "lat": 38.4094,
+        "lon": -79.9936
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Boyne Mountain",
+      "state": "Michigan",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.1736,
+        "lon": -84.9197
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Boyne Highlands",
+      "state": "Michigan",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.5225,
+        "lon": -84.9347
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Granite Peak",
+      "state": "Wisconsin",
+      "country": "USA",
+      "coordinates": {
+        "lat": 45.4417,
+        "lon": -89.6861
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Lutsen Mountains",
+      "state": "Minnesota",
+      "country": "USA",
+      "coordinates": {
+        "lat": 47.6503,
+        "lon": -90.7094
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Spirit Mountain",
+      "state": "Minnesota",
+      "country": "USA",
+      "coordinates": {
+        "lat": 46.7169,
+        "lon": -92.2211
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Alyeska",
+      "state": "Alaska",
+      "country": "USA",
+      "coordinates": {
+        "lat": 60.9606,
+        "lon": -149.0994
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Eaglecrest",
+      "state": "Alaska",
+      "country": "USA",
+      "coordinates": {
+        "lat": 58.2594,
+        "lon": -134.3811
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Whistler Blackcomb",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.1163,
+        "lon": -122.9574
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Revelstoke",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.9981,
+        "lon": -118.1958
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Kicking Horse",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.2981,
+        "lon": -116.9828
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Fernie",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 49.465,
+        "lon": -115.0656
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Red Mountain",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 49.0861,
+        "lon": -117.8161
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Sun Peaks",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.8836,
+        "lon": -119.8858
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Big White",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 49.7261,
+        "lon": -118.9378
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Panorama",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.8461,
+        "lon": -116.0794
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Apex Mountain",
+      "state": "British Columbia",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 49.3628,
+        "lon": -119.9358
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Lake Louise",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.4254,
+        "lon": -116.1773
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Banff Sunshine",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.1125,
+        "lon": -115.7631
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mt. Norquay",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 51.195,
+        "lon": -115.5592
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Marmot Basin",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 52.8628,
+        "lon": -117.9461
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Nakiska",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 50.9997,
+        "lon": -115.0831
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Castle Mountain",
+      "state": "Alberta",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 49.3011,
+        "lon": -114.3856
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mont Tremblant",
+      "state": "Quebec",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 46.2094,
+        "lon": -74.5908
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Le Massif",
+      "state": "Quebec",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 47.3336,
+        "lon": -70.6344
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Mont Sainte-Anne",
+      "state": "Quebec",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 47.0753,
+        "lon": -70.9014
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    },
+    {
+      "name": "Blue Mountain",
+      "state": "Ontario",
+      "country": "Canada",
+      "coordinates": {
+        "lat": 44.5089,
+        "lon": -80.3197
+      },
+      "snow": {
+        "snowfall_m": 0,
+        "snowfall_inches": 0,
+        "snow_depth_m": 0,
+        "snow_depth_inches": 0,
+        "snow_cover_percent": 0,
+        "water_equivalent_kg_m2": 0,
+        "temperature_k": 0,
+        "temperature_f": 0,
+        "precipitation_kg_m2": 0,
+        "categorical_snow": 0
+      }
+    }
+  ]
+}
